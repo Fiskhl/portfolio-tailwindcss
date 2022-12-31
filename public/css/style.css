@@ -733,6 +733,15 @@ video {
   width: 1.25rem;
 }
 
+.w-80 {
+  width: 20rem;
+}
+
+.w-max {
+  width: -moz-max-content;
+  width: max-content;
+}
+
 .max-w-\[250px\] {
   max-width: 250px;
 }
