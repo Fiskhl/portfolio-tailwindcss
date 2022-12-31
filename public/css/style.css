@@ -725,21 +725,17 @@ video {
   width: 1rem;
 }
 
+.w-max {
+  width: -moz-max-content;
+  width: max-content;
+}
+
 .w-14 {
   width: 3.5rem;
 }
 
 .w-5 {
   width: 1.25rem;
-}
-
-.w-80 {
-  width: 20rem;
-}
-
-.w-max {
-  width: -moz-max-content;
-  width: max-content;
 }
 
 .max-w-\[250px\] {
